@@ -1,9 +1,14 @@
+
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+there+%2C+I'm+Ismail+Munna+;+I'm+Passionate+MERN+Stack+Web+Developer;Building+Scalable+%26+User-Friendly+Web+Apps;Open+to+Remote+Opportunities+%F0%9F%9A%80" alt="Typing SVG" /></a>
+
+</h1>
+
 ![MasterHead](https://i.ibb.co.com/zHBjGnkF/Chat-GPT-Image-Nov-19-2025-05-15-16-PM.png)
 
 
 
-<h1 align="center">Hi , I'm <span style="color:#4BB543;">Ismail Munna</span></h1>
-<h3 align="center"> MERN Stack Web Developer | Crafting Modern Full-Stack Applications</h3>
+
 
 ---
 
