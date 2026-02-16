@@ -14,14 +14,16 @@
 
 ##  About Me
   
-I am a passionate Full Stack Developer with experience in building modern, scalable web applications. I love solving real-world problems through code and continuously exploring new technologies
+I am a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with experience in building modern, scalable web applications. I love solving real-world problems through code and continuously exploring new technologies
 
  *Currently exploring / working on:*
- Full-stack development with *React, Node.js, Express & MongoDB*
- UI/UX building using *HTML, CSS, TailwindCSS*
- Authentication & backend integrations using *Firebase*
- Improving problem-solving through *DSA*
- API optimization & database structuring
+🌱 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆, 𝗜 𝗮𝗺:
+
+- Working on **Full-stack development** using *React, Node.js, Express & MongoDB*
+- Building clean and responsive **UI/UX** with *HTML, CSS, Tailwind CSS*
+- Implementing **Authentication & backend integrations** using *Firebase*
+- Improving **problem-solving skills** through *Data Structures & Algorithms (DSA)*
+- Focusing on **API optimization & efficient database structuring*
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munna7487&label=Profile%20views&color=0e75b6&style=flat" alt="munna7487" /> </p>
