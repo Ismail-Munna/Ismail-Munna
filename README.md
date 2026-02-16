@@ -16,7 +16,7 @@
   
 I am a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with experience in building modern, scalable web applications. I love solving real-world problems through code and continuously exploring new technologies
 
- *Currently exploring / working on:*
+
 🌱 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆, 𝗜 𝗮𝗺:
 
 - Working on **Full-stack development** using *React, Node.js, Express & MongoDB*
