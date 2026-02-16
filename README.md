@@ -13,9 +13,8 @@
 ---
 
 ##  About Me
-Hi! I'm *Ismail Munna*, a passionate MERN Stack developer from Bangladesh.  
-I love building modern, responsive and user-friendly web applications.  
-I also focus on *OOP, DSA*, and writing scalable backend systems.
+  
+I am a passionate Full Stack Developer with experience in building modern, scalable web applications. I love solving real-world problems through code and continuously exploring new technologies
 
  *Currently exploring / working on:*
  Full-stack development with *React, Node.js, Express & MongoDB*
