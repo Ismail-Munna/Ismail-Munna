@@ -79,7 +79,7 @@ I am a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼
 <!-- GitHub Streak -->
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Ismail-Munna&theme=midnight-purple&hide_border=true&ring=ff4ecd&fire=ff9e00&currStreakLabel=ffffff&sideLabels=ff4ecd&dates=dddddd" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Ismail-Munna&theme=github-dark-blue&hide_border=true&ring=00e5ff&fire=00b4d8&currStreakLabel=ffffff&sideLabels=00e5ff&dates=cccccc" 
     alt="GitHub Streak Stats"
   />
 </p>
